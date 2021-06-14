@@ -1,14 +1,13 @@
 <template>
-  <div id="app">
-  </div>
+  <div></div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: "DataSelectors"
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
